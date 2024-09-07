@@ -1,9 +1,15 @@
 Name : SWARUPANANDA DAS
+
 Company : CODTECH IT SOLUTIONS
+
 ID : CT12DS1922
+
 Domain : CYBER SECURITY & ETHICAL HACKING
+
 Duration : July 20th 2024 to september 20th 2024
+
 Mentor : MUZAMMIL AHMED
+
 
 
 
